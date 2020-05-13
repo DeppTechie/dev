@@ -1,0 +1,20 @@
+#IDE specific files
+.idea/*
+*.jar
+out
+out/*
+target/classes/*
+target/test-classes/*
+target/surefire-reports/*
+settings.xml
+*.iml
+build/
+classes/
+Automation_Test_Results.html
+# Eclipse
+/bin
+*.jar
+/target
+/.settings
+.classpath
+.project
